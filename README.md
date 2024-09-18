@@ -1,10 +1,10 @@
-*WatchSSH*
+# WatchSSH
 
 **v1.4**
 
 **Monitor SSH Login and Logout Activity**
 
-WatchSSH is a Python application designed to monitor SSH login and logout activity on your system. It provides a user-friendly interface and informative notifications, making it a valuable tool for system administrators and security professionals.
+**WatchSSH** is a Python application designed to monitor SSH login and logout activity on your system. It provides a user-friendly interface and informative notifications, making it a valuable tool for system administrators and security professionals.
 
 **Benefits**
 
@@ -61,4 +61,5 @@ Feel free to test this and get back to me with any feedback or suggestions.
 
 **TODO**
 
-nothing here yet
+- Make command line more user friendly
+- what do you have in mind?
